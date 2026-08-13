@@ -1,5 +1,7 @@
 # Connectivity CoP - Events May 18 and 19, 2026 - IQB Education
 
+([back to materials](../README.md))
+
 This folder contains material to the IQB-Edu (Internet Quality Barometer for Education) for the use case of Moldova schools, created and presented by M-Lab and Giga.
 
 - [Presentation](./2026-05-18__CoP__IQB-Edu.pdf): IQB-Edu and the Moldova Use case; by Pavlos Sermpezis, M-Lab
