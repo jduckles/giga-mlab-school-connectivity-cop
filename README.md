@@ -10,5 +10,5 @@ Open repository for the Connectivity Community of Practice — a collaboration b
 Our living research agenda — the questions we're exploring, priorities, and direction of the community's work. If you have suggestions or edits, open a pull request or comment directly on the [Google doc](https://docs.google.com/document/d/10LuFzy9Pyz98GcoagzutCZ4nsi9TWl6G3HLO7yNwVbY/edit?tab=t.2iew71bm3jwg).
 
 ### `materials/`
-A collection of resources shared within the community: presentations, reports, papers, and other documents. Files are named descriptively so they're easy to browse.
+A collection of resources shared within the community: presentations, reports, papers, and other documents, organized into dated subfolders per topic/event. See [`materials/README.md`](./materials/README.md) for the full index.
 
