@@ -15,7 +15,6 @@ Our living research agenda — the questions we're exploring, priorities, and di
 
 - [CoP Google Group](https://groups.google.com/a/measurementlab.net/g/connectivity-cop) — join for discussions and further announcements of activities
 - [CoP GitHub](https://github.com/unicef/giga-mlab-school-connectivity-cop) — meeting notes, resources, and discussions
-- Contact: `connectivity-cop@measurementlab.net`
 
 ## Past events
 
